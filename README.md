@@ -1,0 +1,1 @@
+Venue reservation system console application. This application communicates with a database (MS SQL), and the connection string is coded into program.cs 
